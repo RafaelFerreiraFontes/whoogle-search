@@ -25,3 +25,6 @@ whoogle.env
 # vim
 *~
 *.swp
+icon.ico
+icon.webp
+whoogle-search-cmd.cmd
